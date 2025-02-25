@@ -1,1 +1,1 @@
-Sitemap: https://Narada-07.github.io/sitemap.xml
+Sitemap: https://Narada-07.github.io/Qlik-Sense/sitemap.xml
