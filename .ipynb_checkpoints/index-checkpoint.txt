@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1> Expository Blog for Qlik Sense </h1>
+<h3> Introduction </h3>
+<p> Qlik Sense is a self-service Business Intelligence (BI) tool that can be used for creating interactive data visualizations with ease.  </p>
+</body>
+</html>
